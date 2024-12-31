@@ -29,6 +29,7 @@ const Wrapper = styled.aside`
   border-radius: 5px;
   font-size: 16px; /* Optional: Change the font size */
   text-align: center; /* Ensures the text is centered if you have multiple lines */
+  z-index:100;
 }
 
 @media (min-width: 992px) {
